@@ -16,3 +16,6 @@ Steps to run:
         cd server
         npm start    in the terminal.
 3. Connect to the MongoDB Atlas before doing the above steps
+
+Project Demo link,
+https://drive.google.com/file/d/1wu8ckddg8OYaR3hdPy1CZ0-kI2Rf77AI/view
